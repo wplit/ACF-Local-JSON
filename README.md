@@ -1,7 +1,7 @@
 # ACF-Local-JSON<br/>
 **Contributors:** David Browne<br/>
 **Tags:** acf, oxygen, json<br/>
-**Requires at least:** ACF Pro 5.0.0<br/>
+**Requires at least:** ACF Pro 5.1.5<br/>
 **License:** GPLv2 or later<br/>
 **License URI:** http://www.gnu.org/licenses/gpl-2.0.html<br/>
 
