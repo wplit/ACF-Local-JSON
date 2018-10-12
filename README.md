@@ -15,7 +15,7 @@ In short, the three main benefits to this feature are;
 
 Usually, for this feature the files need to be stored inside a WordPress theme. This plugin just make use of the filters to change the directory that ACF searches for, so they can be stored inside this plugin. Built especially for [Oxygen](http://oxygenbuilder.com/) where the theme is completely disabled.
 
-See the official documentation, [overview of Local JSON in ACF](http://www.advancedcustomfields.com/resources/local-json/) for better understanding.
+See the official documentation, [overview of Local JSON in ACF](http://www.advancedcustomfields.com/resources/local-json/) for a better understanding.
  
 
 ## Installation ##
