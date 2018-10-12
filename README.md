@@ -26,7 +26,7 @@ See the official documentation, [overview of Local JSON in ACF](http://www.advan
 
 ## Usage ##
 
-1. After installing, resave your field groups and they will be now stored inside the acf-json directory in this plugin. 
+1. After installing, re-save your field groups and they will be now stored inside the acf-json directory in this plugin. 
 
 ## Changelog ##
 
