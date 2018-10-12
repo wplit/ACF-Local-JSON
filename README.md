@@ -5,7 +5,7 @@
 **License:** GPLv2 or later<br/>
 **License URI:** http://www.gnu.org/licenses/gpl-2.0.html<br/>
 
-Local JSON is a feature in Advanced Custom Fields Pro which saves field group and field settings as .json files.
+Local JSON is a feature in Advanced Custom Fields Pro which saves field group and field settings as JSON files.
 
 In short, the three main benefits to this featuere are;
 
