@@ -7,7 +7,7 @@
 
 Local JSON is a feature in Advanced Custom Fields Pro which saves field group and field settings as JSON files.
 
-In short, the three main benefits to this featuere are;
+In short, the three main benefits to this feature are;
 
 * Speeds up ACF as it reduces the amount of database queries on page load.
 * Allows multiple devs to work on a project, use git to push / pull files, and keep all databases synchronized with the latest field group settings.
