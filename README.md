@@ -1,9 +1,9 @@
-# ACF-Local-JSON
-**Contributors:** David Browne  
-**Tags:** acf, oxygen, json 
-**Requires at least:** RCP 2.6.6
-**License:** GPLv2 or later  
-**License URI:** http://www.gnu.org/licenses/gpl-2.0.html
+# ACF-Local-JSON\
+**Contributors:** David Browne\
+**Tags:** acf, oxygen, json\ 
+**Requires at least:** RCP 2.6.6\
+**License:** GPLv2 or later\  
+**License URI:** http://www.gnu.org/licenses/gpl-2.0.html\
 
 Local JSON is a feature in Advanced Custom Fields Pro which saves field group and field settings as .json files.
 
