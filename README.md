@@ -28,6 +28,10 @@ See the official documentation, [overview of Local JSON in ACF](http://www.advan
 
 1. After installing, re-save your field groups and they will be now stored inside the acf-json directory in this plugin. 
 
+## Support ##
+
+I'd love to keep building useful tools for free. if you find my work valuable, consider [buying me a coffee](https://www.buymeacoffee.com/wplit) to show your support. 
+
 ## Changelog ##
 
 ### 1.0.0 - Oct 13, 2018 ###
