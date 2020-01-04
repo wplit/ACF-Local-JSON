@@ -40,7 +40,7 @@ add_filter('acf/settings/save_json', 'lit_acf_json_save_point');
 function lit_acf_json_save_point( $path ) {
     
     // update path
-    $path = plugin_dir_path( __FILE__ ) . '/acf-json';
+    $path = plugin_dir_path( __FILE__ ) . 'acf-json';
     
     // return
     return $path;
@@ -62,7 +62,7 @@ function lit_acf_json_load_point( $paths ) {
     unset($paths[0]);
     
     // append path
-    $paths[] = plugin_dir_path( __FILE__ ) . '/acf-json';
+    $paths[] = plugin_dir_path( __FILE__ ) . 'acf-json';
     
     // return
     return $paths;
